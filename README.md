@@ -63,6 +63,9 @@ Table of Contents
 
 [Getting Started with Linux](http://computefreely.org/)
 
+[Linux Journey](https://linuxjourney.com/)
+
+
 ### Beginner Guides
 
 [Installing a VPN server on Linux](http://techarena51.com/blog/how-to-install-an-opensource-vpn-server-on-linux/?utm_source=devopswiki)
@@ -123,9 +126,11 @@ Table of Contents
 
 [Creating Init/Systemd Scripts](http://techarena51.com/blog/how-to-create-an-init-script-on-centos-6/?utm_source=devopswiki)
 
+[Useful systemd commands](https://www.dynacont.net/documentation/linux/Useful_SystemD_commands/)
+
 [Building an RPM on CentOS](http://techarena51.com/blog/build-rpm-without-breaking-head/?utm_source=devopswiki)
 
-[ Bash if statements](http://techarena51.com/blog/bash-scripting-tutorial-part-2/?utm_source=devopswiki)
+[Bash if statements](http://techarena51.com/blog/bash-scripting-tutorial-part-2/?utm_source=devopswiki)
 
 [Beginners Guide to BASH](http://techarena51.com/blog/a-beginners-guide-to-bash-scripting/?utm_source=devopswiki)
 
@@ -360,6 +365,7 @@ Table of Contents
 
 [The Twelve-Factor Software-As-A-Service App building methodology](http://12factor.net/)
 
+[Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
 
 **[Back to top](#table-of-contents)**
 
@@ -376,7 +382,7 @@ https://github.com/Leo-G/DevopsWiki/wiki/Devops-Interview-Questions
 
  **[Back to top](#table-of-contents)**
 
-## [Docker]
+## Docker
 
 [English Docker Guides and Tutorials](http://blog.flux7.com/topic/docker)
 
