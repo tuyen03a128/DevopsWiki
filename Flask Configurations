@@ -1,0 +1,36 @@
+AWS Lambda config
+
+Currently works with python 3.6 ensure that is installed
+
+Add AWS creds inside your home folder 
+     ~/.aws/credentials
+     [default]
+     aws_access_key_id=[...]
+     aws_secret_access_key=[...]
+     
+      ~/.aws/config
+     [default]
+     region=ap-southeast-1
+     
+     
+  Create a folder called folder with the following info
+  
+  mkdir flask-app
+  vim requirments.txt
+  zappa
+  flask
+  python3 -m pip install --user virtualenv  
+  python3.6 -m virtualenv env-3.6
+  source env-3.6/bin/activate
+  pip  install -r requirements.txt 
+  zappa init
+  FULL OUTPUT TRUNCATED... 
+    What do you want to call this environment (default 'dev'):
+    What do you want call your bucket? (default 'zappa-iuythwymz'):
+    Where is your app's function? (default 'app..app'):
+    Would you like to deploy this application globally? (default 'n') [y/n/(p)primary]:
+    Does this look okay? (default 'y') [y/n]:
+
+   zappa deploy dev
+   
+ if deployment is successful it will give you the url to the API gateway
