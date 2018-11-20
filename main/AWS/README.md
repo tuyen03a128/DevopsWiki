@@ -8,7 +8,7 @@ A wiki of Guides, Scripts, Tutorials related to AWS
 Table of Contents
 -----------------
 
-  1. [Getting Started](#Getting Started)
+  1. [Getting Started](#Getting-Started)
 
            
            
