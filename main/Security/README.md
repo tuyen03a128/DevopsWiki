@@ -9,6 +9,8 @@ Table of Contents
 -----------------
 
   1. [Digital Forensics ToolKit](#Digital-Forensics-ToolKit)
+  2. [Firewall Configuration Guides](#Firewall-Configuration-Guides)
+  3. [OS Hardening Guides](#OS-Hardening-Guides)
 
            
            
@@ -23,6 +25,24 @@ Table of Contents
 [The PALADIN Toolbox](https://sumuri.com/software/paladin?utm_source=github.com%2FLeo-G%2FDevopsWiki) combines the power of several court-tested Open Source forensic tools into a simple interface that can be used by anyone, version 7 includes Autopsy
 
 [MacQuisition](https://www.blackbagtech.com/software-products/macquisition-8/macquisition.html?utm_source=github.com%2FLeo-G%2FDevopsWiki) is a powerful, 3-in-1 solution for live data acquisition, targeted data collection, and forensic imaging. Tested and used by experienced examiners for over a decade, MacQuisition runs on the Mac OS X operating system and safely boots and acquires data from over 185 different Macintosh computer models in their native environment - even Fusion Drives
+
+**[Back to top](#table-of-contents)**
+
+## Firewall Configuration Guides
+
+
+[Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page)
+
+[Fail2ban - Block ip scanning on postfix](https://techarena51.com/blog/confiigure-fail2ban-block-brute-force-ips-scanning-postfix-logs/?utm_source=devopswiki)
+
+[Configuring a Firewall for linux with CSF and LFD](https://techarena51.com/blog/how-to-configure-and-install-config-server-firewall-login-failure-daemon/?utm_source=devopswiki)
+
+**[Back to top](#table-of-contents)**
+
+## OS Hardening Guides
+
+
+[Hardening Debian for the Desktop Using Grsecurity](https://micahflee.com/2016/01/debian-grsecurity/)
 
 **[Back to top](#table-of-contents)**
 
