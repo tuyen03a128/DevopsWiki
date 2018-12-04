@@ -33,7 +33,7 @@ Table of Contents
   5. Editors   
      - [Code Editors](#code-editors)
   
-  6. [Security](#security)
+  6. [Security](main/Security/README.md)
      
   7. Automation
       - [Automation Guides](#automation-guides)
@@ -281,18 +281,6 @@ Table of Contents
 
 **[Back to top](#table-of-contents)**
 
-
-## Security
-
-[Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page)
-
-[Fail2ban - Block ip scanning on postfix](https://techarena51.com/blog/confiigure-fail2ban-block-brute-force-ips-scanning-postfix-logs/?utm_source=devopswiki)
-
-[Configuring a Firewall for linux with CSF and LFD](https://techarena51.com/blog/how-to-configure-and-install-config-server-firewall-login-failure-daemon/?utm_source=devopswiki)
-
-[Hardening Debian for the Desktop Using Grsecurity](https://micahflee.com/2016/01/debian-grsecurity/)
-
-**[Back to top](#table-of-contents)**
 
 
 ## Email Server Configuration
