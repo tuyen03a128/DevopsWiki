@@ -8,13 +8,22 @@ A wiki of Guides, Scripts, Tutorials related to Cyber Security and Forensics
 Table of Contents
 -----------------
 
-  1. [Digital Forensics ToolKit](#Digital-Forensics-ToolKit)
-  2. [Firewall Configuration Guides](#Firewall-Configuration-Guides)
-  3. [OS Hardening Guides](#OS-Hardening-Guides)
-  4. [TCPDUMP Examples](#tcpdump-examples)
+  1. [Pentesting Tutorials and Guides](#Pentesting-Tutorials-and-Guides)
+  2. [Digital Forensics ToolKit](#Digital-Forensics-ToolKit)
+  3. [Firewall Configuration Guides](#Firewall-Configuration-Guides)
+  4. [OS Hardening Guides](#OS-Hardening-Guides)
+  5. [TCPDUMP Examples](#tcpdump-examples)
+  
 
-           
-           
+
+## Pentesting Tutorials and Guides  
+
+[Getting started with Pentesting](https://github.com/sundowndev/hacker-roadmap)
+
+[Beginners Guide to Application Security Testing](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents )
+
+**[Back to top](#table-of-contents)**
+
 ## Digital Forensics ToolKit
 
 [Autopsy®](http://www.sleuthkit.org/index.php?utm_source=github.com%2FLeo-G%2FDevopsWiki) a opensource GUI-based program that allows you to efficiently analyze hard drives and smart phones
