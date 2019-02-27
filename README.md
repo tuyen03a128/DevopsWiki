@@ -59,6 +59,9 @@ Table of Contents
 
   11. [AWS](#aws)
       - Check the AWS sub folder
+  
+  12. CI/CD
+      - GoCD 
 
       
       
