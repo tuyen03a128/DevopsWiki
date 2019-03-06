@@ -34,6 +34,7 @@ Table of Contents
      - [Code Editors](#code-editors)
   
   6. [Security](main/Security/README.md)
+     - [Understanding Certificates and Keys](http://www.eclipse.org/jetty/documentation/current/configuring-ssl.html)
      
   7. Automation
       - [Automation Guides](#automation-guides)
