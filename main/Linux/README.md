@@ -13,7 +13,7 @@ Table of Contents
            
 ## Getting Started
 
-<script src="https://gist.github.com/tuyen03a128/b29be21433a57d40a717.js"></script>
+
 
 
 **[Back to top](#table-of-contents)**
