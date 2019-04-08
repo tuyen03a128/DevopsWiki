@@ -39,6 +39,9 @@ Table of Contents
 
 ## Kubernetes
 
+[Architecture of cluster]
+
+[Upgrading a cluster]
 
 ## Swarm
 
